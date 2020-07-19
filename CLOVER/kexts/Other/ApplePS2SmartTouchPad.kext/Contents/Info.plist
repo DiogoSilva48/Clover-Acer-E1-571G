@@ -960,7 +960,7 @@
 					<key>5FingersPinchAction</key>
 					<integer>3</integer>
 					<key>CircularRotate</key>
-					<true/>
+					<false/>
 					<key>DisableTPadOnLIDClose</key>
 					<true/>
 					<key>MaxTouchEndDelta</key>
@@ -1032,17 +1032,17 @@
 						<integer>9</integer>
 					</dict>
 					<key>PalmDetection</key>
-					<true/>
+					<false/>
 					<key>PinchDeltaScale</key>
 					<integer>3</integer>
 					<key>PinchRotateMinSamples</key>
 					<integer>3</integer>
 					<key>PinchZoom</key>
-					<true/>
+					<false/>
 					<key>PinchZoomDelta</key>
 					<integer>300</integer>
 					<key>Rotation</key>
-					<true/>
+					<false/>
 					<key>RotationDelta</key>
 					<integer>350</integer>
 					<key>RotationMaxCFingDelta</key>
@@ -1232,7 +1232,7 @@
 						<key>InertialEdgeScroll</key>
 						<true/>
 						<key>SlingEdgeScroll</key>
-						<false/>
+						<true/>
 					</dict>
 					<key>InertialScrollDelay</key>
 					<integer>8</integer>

@@ -1,0 +1,11 @@
+Copyright (C) 2012 Magnum Ingenium
+
+Este software é fornecido 'tal como está', sem qualquer garantia expressa ou implícita. Em nenhum caso serão os autores responsabilizados por quaisquer danos decorrentes do uso deste software.
+
+É concedida a permissão do uso deste software a qualquer pessoa e para qualquer propósito, incluindo aplicações comerciais, e alterá-lo e redistribuí-lo livremente, sujeito às seguintes restrições:
+
+1. A origem deste software não deve ser deturpada e não deve de alegar que escreveu o software original. Se usar este software em um produto, um reconhecimento na documentação do produto seria apreciada mas não é necessário.
+
+2. Versões de origem alteradas devem ser claramente identificadas como tal, e não devem de ser mal representadas como sendo o software original.
+
+3. Este aviso não pode ser removido ou alterado a partir de qualquer distribuição ou fonte.

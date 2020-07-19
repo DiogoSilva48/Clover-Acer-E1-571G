@@ -123,7 +123,7 @@
 				<key>Misson Control</key>
 				<string>F3</string>
 				<key>SleepDisplay</key>
-				<string>F7</string>
+				<string></string>
 				<key>SystemSleep</key>
 				<string>F1</string>
 				<key>Touchpad</key>
@@ -152,13 +152,13 @@
 				<key>Disable Num Lock LED</key>
 				<false/>
 				<key>Enable Extended Functions</key>
-				<true/>
+				<false/>
 				<key>Enable Sierra Caps Lock Fix</key>
 				<true/>
 				<key>FinerFnBrightnessControl</key>
-				<false/>
+				<true/>
 				<key>FinerFnVolumeControl</key>
-				<false/>
+				<true/>
 				<key>Make Caps Lock into key</key>
 				<integer>0</integer>
 				<key>Make ISO keypad key . to ,</key>
@@ -178,12 +178,12 @@
 				<key>Num Lock enabled at boot</key>
 				<false/>
 				<key>Swap alt and windows key</key>
-				<false/>
+				<true/>
 			</dict>
 			<key>ProductID</key>
 			<integer>782</integer>
 			<key>Use ISO Layout</key>
-			<false/>
+			<true/>
 			<key>VendorID</key>
 			<integer>1452</integer>
 		</dict>
